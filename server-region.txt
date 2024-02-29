@@ -1,0 +1,1 @@
+The server region is us-west-1
